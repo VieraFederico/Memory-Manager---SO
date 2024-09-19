@@ -1,0 +1,3 @@
+/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/CMakeFiles/Memory_Manager___SO.dir
+/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

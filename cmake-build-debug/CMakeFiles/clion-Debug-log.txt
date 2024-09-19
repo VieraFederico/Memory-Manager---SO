@@ -1,0 +1,4 @@
+C:\Windows\system32\wsl.exe --distribution WLinux --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S /mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO -B /mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug

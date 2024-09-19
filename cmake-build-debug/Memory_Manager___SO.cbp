@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Memory_Manager___SO"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Memory_Manager___SO">
+				<Option output="/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Memory_Manager___SO" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 Memory_Manager___SO"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Memory_Manager___SO/fast">
+				<Option output="/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Memory_Manager___SO" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 Memory_Manager___SO/fast"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/main.c">
+			<Option target="Memory_Manager___SO"/>
+		</Unit>
+		<Unit filename="/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/memory_manager.c">
+			<Option target="Memory_Manager___SO"/>
+		</Unit>
+		<Unit filename="/mnt/d/Desktop/TP2-SO-MEMMAN/Memory-Manager---SO/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
